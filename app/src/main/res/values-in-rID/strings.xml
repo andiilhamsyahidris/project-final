@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yanflix</string>
+    <string name="airing_today">Hari ini</string>
+    <string name="popular">Populer</string>
+    <string name="top_rated">Rating Tertinggi</string>
+    <string name="favorite">Favorit</string>
+    <string name="first_air_date">Perdana</string>
+    <string name="last_air_date">Terakhir</string>
+    <string name="episode">Episode</string>
+    <string name="season">Musim</string>
+    <string name="overview">Sinopsis</string>
+    <string name="rate">Rating</string>
+    <string name="favorite_empty">Daftar favorit masih kosong</string>
+    <string name="search">Cari</string>
+    <string name="language">Bahasa</string>
+    <string name="pemeran">Pemeran</string>
+    <string name="data_tidak_ditemukan">Data tidak ditemukan</string>
+</resources>
